@@ -1,0 +1,3 @@
+This repo will hold my work throughout my time working through the ["Guide: Web Development with Computer Science Foundations - comprehensive path"] (https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516).
+
+Thanks to P1xt for putting this together over at freeCodeCamp and MARKJ78 for porting the list to Trello to make tracking progress even easier.
